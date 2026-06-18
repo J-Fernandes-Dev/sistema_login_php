@@ -1,6 +1,6 @@
 <?php
 $host = "localhost:8889";
-$db_name = "sistema_de_login-php";
+$db_name = "sistema_de_login_php";
 $username = "root";
 $password = "root";
 
