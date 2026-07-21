@@ -17,6 +17,7 @@ Necessita de um servidor local como o **MAMP** ou **XAMPP** instalado.
 ### 3. Ajustar as Credenciais
 Se necessário, altere as configurações de acesso ao banco de dados no ficheiro `conexao.php`:
 ```php
-$host = "localhost:8889"; // Altere a porta se usar XAMPP
-$username = "root";
-$password = "root";       // Altere para vazio "" se usar XAMPP
+$$host = "localhost:8889";
+$db_name = "sistema_de_login_php";
+$username = "O_TEU_UTILIZADOR";
+$password = "A_TUA_PASSWORD";      // Altere para vazio "" se usar XAMPP
